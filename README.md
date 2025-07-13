@@ -19,7 +19,7 @@ This analysis aims to answer key business questions such as:
 | File Name                  | Description                                    |
 |---------------------------|------------------------------------------------|
 | `Shark Tank DA.pbix`      | Power BI dashboard report                     |
-| `Report.pdf`              | Exported PDF version of the dashboard         |
+| `Shark Tank India Report.pdf`              | Exported PDF version of the dashboard         |
 | `cleaned Shark tank data.xlsx` | Cleaned dataset used for the analysis       |
 | `page1.png - page6.png`   | PNG snapshots of each Power BI report page    |
 | `shark tank DA.xlsx`      | Final aggregated or pivoted dataset (if any)  |
